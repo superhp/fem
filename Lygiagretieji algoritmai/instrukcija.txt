@@ -1,0 +1,3 @@
+Skaityti failo "TEST.m" instrukcijà.
+
+Norint susigeneruoti kitokio dydþio uþdaviná, reikia nautoti "generavimas.m" funkcijà.
